@@ -1,5 +1,5 @@
 {
-    "name": "Servo Murmur",
+    "name": "servo-murmur",
     "title": "Servo Murmur",
     "description": "A module to provide an endpoint for checking the server status and if a game is in session.",
     "version": "1.0.0",
