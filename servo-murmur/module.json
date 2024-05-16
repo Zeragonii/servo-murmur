@@ -1,0 +1,24 @@
+{
+    "name": "Servo Murmur",
+    "title": "Servo Murmur",
+    "description": "A module to provide an endpoint for checking the server status and if a game is in session.",
+    "version": "1.0.0",
+    "author": "Zeragonii",
+    "minimumCoreVersion": "0.7.9",
+    "scripts": [
+      "scripts/main.js"
+    ],
+    "esmodules": [],
+    "styles": [],
+    "packs": [],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "url": "",
+    "manifest": "",
+    "download": ""
+  }

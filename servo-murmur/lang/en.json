@@ -1,0 +1,4 @@
+{
+    "MODULE_NAME": "FoundryVTT Status Check",
+    "MODULE_DESCRIPTION": "A module to provide an endpoint for checking the server status and if a game is in session."
+  }
